@@ -16,7 +16,7 @@ int main(void){
         upper[i] = toupper(input[i]);
         lower[i] = tolower(input[i]);
     }
-    printf("%s\n", input);
+    
     printf("大文字にすると%sです\n", upper);
     printf("小文字にすると%sです\n", lower);
 
