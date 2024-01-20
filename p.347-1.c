@@ -4,9 +4,7 @@
 
 int main(void){
     char input[50];
-    char lower[50];
-    char upper[50];
-    
+        
     printf("文字列を入力してください。\n");
 
     scanf("%s", input);
