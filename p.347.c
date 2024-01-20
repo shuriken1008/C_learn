@@ -19,8 +19,5 @@ int main(void){
     printf("%s\n", input);
     printf("大文字にすると%sです\n", upper);
     printf("小文字にすると%sです\n", lower);
-
-
-    return 0;
 }
 
